@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vanaja
 - 👀 I’m interested in backed developer
-- 🌱 I’m currently learning pursuring Btech
+- 🌱 I’m currently  pursuring Btech
 - 📫 How to reach through Linkedin
 
 <!---
