@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vanaja
-- 👀 I’m interested in backed developer
+- 👀 I’m interested in Full stack developer
 - 🌱 I’m currently  pursuring Btech
 - 📫 How to reach through Linkedin
 
